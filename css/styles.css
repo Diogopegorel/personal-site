@@ -1,0 +1,100 @@
+body {
+    background-color: #EDF1D6;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif
+}
+h1 {
+    color: #245953;
+    font-family: 'Crimson Text', serif;
+    font-size: 60px;
+    margin-top: 130px;
+}
+h2 {
+    color: #245953;
+}
+h3 {
+    color: #245953;
+}
+hr {
+    border-color: #EEE9DA;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 5%;
+    }
+a:hover {
+    color: #6a7c05;
+}
+.copright {
+    font-size: 12px;
+    padding-top: 20px;
+}
+.programmer {
+    color: #245953;
+    font-size: 25px;
+}
+.profile-img {
+    border-radius: 50%;
+    padding-top: 10px;
+    width: 25%;
+}
+.swiss-flag {
+    width: 2%;
+}
+.freela-img {
+    width: 5%;
+}
+.top-container {
+    background-color: #EDF1D6;
+    position: relative;
+    margin: 0;
+    padding: 10px;
+}
+.middle-container {
+    background-color: #9DC08B;
+    padding-bottom: 10px;
+}
+.bottom-container {
+    background-color: #EDF1D6;
+    color: #245953;
+    padding: 10px; 
+}
+.skills {
+    background-color: #609966;
+    padding: 10px;
+}
+.contact-me {
+    background-color: #9DC08B;
+}
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.btn {
+  border-radius: 8px;
+  font-family:'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 15px;
+  background: #245953;
+  padding: 2px 6px 1px 6px;
+  text-decoration: none;
+}
+.btn:hover {
+    background: #313d2b;
+  }
+.footer-link {
+    color: #245953;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px;
+    text-decoration: none;
+}
